@@ -1,0 +1,28 @@
+@import '_variables', 'title', 'overview', 'mui-overrides', 'core-content';
+
+html {
+	font-size: 14px;
+	scroll-behavior: smooth;
+	min-width: 1050px;
+}
+
+html * {
+	font-family: 'Hepta Slab', serif !important;
+}
+
+body, h2, figure {
+	margin: 0;
+}
+
+h2 {
+	padding: 10px;
+	font-size: 1.25em;
+}
+
+figcaption {
+	word-break: break-word;
+}
+
+.hidden {
+	display: none;
+}

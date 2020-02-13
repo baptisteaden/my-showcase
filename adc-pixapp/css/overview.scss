@@ -1,0 +1,70 @@
+.overview {
+	display: flex;
+	flex-flow: column;
+	height: 100%;
+	width: 20%;
+	min-width: 225px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 5;
+	background-color: #f7f7f7;
+	border-right: 2px solid rgba(black, .125);
+}
+
+.overview-content {
+	flex-grow: 1;
+	overflow-y: auto;
+}
+
+.no-update {
+	margin: 0;
+	padding: 20px;
+}
+
+.overview-array-title {
+	font-weight: bold;
+	margin: 0;
+	padding: 1em;
+}
+
+.overview-array tr {
+	cursor: pointer;
+	transition: background-color .2s ease;
+	&:hover {
+		background-color: rgba(black, .03);
+	}
+}
+
+.overview-array tr.error {
+	background-color: rgba(red, .3);
+	&:hover {
+		background-color: rgba(red, .4);
+	}
+}
+
+.overview-array td:first-child {
+	width: 40px;
+}
+
+.overview-array td:last-child {
+	overflow: hidden;
+	max-width: 0;
+	word-break: break-word;
+}
+
+.additions .overview-array-title {
+	color: green;
+}
+
+.updates .overview-array-title {
+	color: orange;
+}
+
+.deletions .overview-array-title {
+	color: red;
+}
+
+.send-button-container {
+	padding: 5px;
+}

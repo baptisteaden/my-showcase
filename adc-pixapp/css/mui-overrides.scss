@@ -1,0 +1,69 @@
+@import '_variables';
+
+
+.MuiFormControl-root {
+	width: 100%;
+}
+
+.MuiCollapse-container {
+	transition-duration: 0ms !important;
+}
+
+.MuiFab-root.send-button {
+	float: right;
+	color: white;
+	background-color: $color;
+	&:hover {
+		background-color: darken($color, 10%);
+	}
+}
+
+.MuiExpansionPanel-root {
+	width: 100%;
+}
+
+.product .MuiExpansionPanelSummary-root {
+	background-color: rgba(0, 0, 0, .03);
+}
+
+.product.MuiPaper-elevation1 {
+	box-shadow: none;
+	border: 1px solid rgba(0, 0, 0, .125);
+}
+
+.product .MuiExpansionPanelSummary-root.Mui-expanded {
+	border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+th .MuiSvgIcon-root {
+	height: 17px;
+	vertical-align: sub;
+}
+
+.MuiTooltip-tooltip.filename-help {
+	font-size: .75rem;
+}
+
+.MuiInputBase-root {
+	min-width: 150px;
+}
+
+.MuiInputAdornment-positionEnd {
+	margin-left: 4px !important;
+}
+
+.MuiTextField-root.margin-bottom {
+	margin-bottom: 10px;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+	border-color: $color !important;
+}
+
+td.MuiTableCell-root {
+	padding: 10px;
+}
+
+td .MuiCircularProgress-colorPrimary {
+	color: $color;
+}

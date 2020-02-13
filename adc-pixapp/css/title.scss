@@ -1,0 +1,41 @@
+.page-header {
+	display: flex;
+	border-bottom: 1px solid rgba(black, .125);
+	background-color: rgba($color, .125);
+	padding: 2px 0;
+	transition: text-decoration .2s linear;
+}
+
+.logo {
+	height: 83px;
+}
+
+#page-title {
+	color: $color;
+	margin: 0 0 5px 0;
+}
+
+#page-title a:hover:after {
+    content: "#";
+    text-decoration: underline;
+}
+
+#page-description {
+	margin: 4px 0;
+}
+
+.page-header.hover h1:after {
+	content: "#";
+}
+
+.page-header p {
+	margin: 0;
+}
+
+.page-header a {
+	color: $color;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}

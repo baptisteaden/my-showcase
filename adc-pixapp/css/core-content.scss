@@ -1,0 +1,57 @@
+@import '_variables';
+
+main {
+	@media screen and (max-width: 1040px) {
+		margin-left: 225px;
+	}
+	margin-left: 20%;
+	height: calc(100% - 20px);
+	padding: 10px;
+}
+
+.pix-add-container {
+	margin-bottom: 8em;
+}
+
+img.small  {
+	@media screen and (max-width: 1040px) {
+		height: 100px;
+	}
+	height: 200px;
+}
+
+img.tiny {
+	height: 40px;
+}
+
+.img-name {
+	word-break: break-all;
+}
+
+.product tr, .input-label {
+	transition: background-color .2s ease;
+}
+
+.product tr.deleted {
+	//background-color: rgba(red, .3);
+	background-color: $red;
+}
+
+.product tr.updated {
+	//background-color: rgba(orange, .3);
+	background-color: $orange;
+}
+
+.input-label {
+	background-color: white;
+	padding-right: 5px !important;
+	transition-property: all !important;
+}
+
+.deleted .input-label {
+	background-color: $red;
+}
+
+.updated .input-label {
+	background-color: $orange;
+}
