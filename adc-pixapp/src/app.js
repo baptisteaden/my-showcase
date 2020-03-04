@@ -30,7 +30,7 @@ if (!HTMLCanvasElement.prototype.toBlob) {
 
 /** Entry point for Pixapp react app. */
 
-fetch(document.location.origin + '/realisations_data.json')
+fetch('https://acierdesigncreation.com/realisations_data.json')
 .then(data => data.json())
 .then(data => {
 	//console.log("Realisation pictures received:", data)

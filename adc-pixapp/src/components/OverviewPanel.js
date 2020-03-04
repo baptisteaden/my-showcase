@@ -73,7 +73,7 @@ class OverviewPanel extends React.Component {
 						onMouseEnter={() => this.pageHeader.current.classList.add('hover')}
 						onMouseLeave={() => this.pageHeader.current.classList.remove('hover')}
 					>
-						<img src='../images/logo_adc.png' className='logo' alt='Logo' />
+						<img src='https://acierdesigncreation.com/images/logo_adc.png' className='logo' alt='Logo' />
 					</a>
 					<div id='page-description'>
 						<h1 id='page-title'><a href='#'>Pixapp</a></h1>

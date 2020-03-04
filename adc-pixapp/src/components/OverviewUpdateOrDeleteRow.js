@@ -13,7 +13,7 @@ const OverviewUpdateOrDeleteRow = ({ product, index, name, onClick }) => {
 		>
 			<TableCell>
 				<img 
-					src={'../images/realisations/' + product + '/840/' + name}
+					src={'https://acierdesigncreation.com/images/realisations/' + product + '/840/' + name}
 					className='tiny' 
 				/>
 			</TableCell>

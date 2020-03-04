@@ -1,4 +1,4 @@
-/** Mock-up nodejs backend (the original one is php):
+/** Mock nodejs backend (the original one is php):
   * - The GET request will display the app,
   * - The other 3 requests will DO NOTHING server-side and answer OK
   */
@@ -6,7 +6,7 @@
 var express = require('express'),
 	app = express();
 
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/dist'));
 
 // Display app
 app.get('/', function(req, res) { 
@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 // Manage picture additions
 app.post('/pixapp/realisations', function(req, res) {
 	console.log('POST: /pixapp/realisations');
-	// MOCK-UP: do nothing and say OK
+	// MOCK: do nothing and say OK
 	// Here some behaviour should be implemented to store the received images on the server,
 	// and then answer:
 	res.json({ status: 'success', data: null });
@@ -26,7 +26,7 @@ app.post('/pixapp/realisations', function(req, res) {
 // Manage 'realisations_data.json' updates
 app.post('/pixapp/realisations_data', function(req, res) {
 	console.log('POST: /pixapp/realisations_data');
-	// MOCK-UP: do nothing and say OK
+	// MOCK: do nothing and say OK
 	// Here some behaviour should be implemented to erase 'realisations_data.json' with the received data,
 	// and then answer:
 	res.json({ status: 'success', data: null });
@@ -35,7 +35,7 @@ app.post('/pixapp/realisations_data', function(req, res) {
 // Manage picture deletions
 app.delete('/pixapp/realisations', function(req, res) {
 	console.log('DELETE: /pixapp/realisations');
-	// MOCK-UP: do nothing and say OK
+	// MOCK: do nothing and say OK
 	// Here some behaviour should be implemented to delete images according to received pathes from the server,
 	// and then answer:
 	res.json({ status: 'success', data: null });

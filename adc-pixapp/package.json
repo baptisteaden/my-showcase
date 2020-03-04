@@ -1,0 +1,51 @@
+{
+  "name": "adc-pixapp",
+  "version": "1.0.0",
+  "description": "Manage pictures of https://acierdesigncreation.com/en",
+  "scripts": {
+    "dev": "webpack --mode development --config webpack-pixapp.config.js --watch",
+    "prod": "webpack --mode production --config webpack-pixapp-prod.config.js"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-class-properties"
+    ]
+  },
+  "author": "Baptiste Aden",
+  "license": "ISC",
+  "devDependencies": {
+    "@material-ui/core": "^4.7.1",
+    "@material-ui/icons": "^4.5.1",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "react-notifications-component": "^2.2.3",
+    "redux": "^4.0.4",
+    "react-redux": "^7.1.3",
+    "redux-thunk": "^2.3.0",
+    "sass-loader": "^7.3.1",
+    "node-sass": "^4.13.0",
+    "css-loader": "^2.1.1",
+    "url-loader": "^1.1.2",
+    "mini-css-extract-plugin": "^0.6.0",
+    "@babel/core": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "babel-polyfill": "^6.26.0",
+    "compression-webpack-plugin": "^3.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "es6-promise": "^4.2.8",
+    "immutability-helper": "^3.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

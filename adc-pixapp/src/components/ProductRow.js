@@ -58,7 +58,7 @@ export class ProductRow extends React.Component {
 				{/* Image + original title */}
 				<TableCell>
 					<figure>
-						<img className='small' src={'../images/realisations/' + product + '/840/' + data.name} />
+						<img className='small' src={'https://acierdesigncreation.com/images/realisations/' + product + '/840/' + data.name} />
 						<figcaption>{decodeURIComponent(data.name)}</figcaption>
 					</figure>
 				</TableCell>
