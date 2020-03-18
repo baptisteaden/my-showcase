@@ -1,0 +1,841 @@
+{
+  "agencements": {
+    "title": {
+      "_id": "agencements",
+      "fr": "Agencements",
+      "en": "Arrangements"
+    },
+    "pictures": [
+      {
+        "name": "AGENCEMENT%20(1).JPG",
+        "fr": {
+          "city": "3z",
+          "description": "3"
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(2).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(3).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(4).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(5).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(6).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(7).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "AGENCEMENT%20(8).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-3143.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_0423.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_0424.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_0426.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_2810.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_5383.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Resized-20190222-110920-9587.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "image-0-02-05-76b4eb81b4373e8b7bda5d9daef95ca9f5e7d4f7cd1a60584884bcc16391b268-V.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "escaliers": {
+    "title": {
+      "_id": "escaliers",
+      "fr": "Escaliers",
+      "en": "Stairs"
+    },
+    "pictures": [
+      {
+        "name": "DSC_0101.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(11).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(14).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(15).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(17).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(18).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(20).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(4).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(6).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER%20(9).JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(1).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(2).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(3).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(4).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(5).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "ESCALIER_JEULIN%20(6).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escalier%20Pedro%20et%20Chico%20(%20St%20Gregoire%20)%20(6).jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_1.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_2.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_3.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_4.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_7.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "Escaliers_verre_8.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-3956.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-3957.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190723_111521.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190723_111535.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190723_115755.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190723_122136.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190723_122551.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "_MG_1610.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "_MG_1624.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "_MG_1631.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "_MG_1635.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "_MG_1659.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "pieces-uniques": {
+    "title": {
+      "_id": "pieces-uniques",
+      "fr": "Pièces uniques",
+      "en": "Unique pieces"
+    },
+    "pictures": [
+      {
+        "name": "DSC_0092.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "DSC_1733.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-3954.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-3955.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4384.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4385.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_1165.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190405_101155.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_20190724_101714.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170524_007.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170524_011.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170928_040.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170928_041.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170928_046.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "WP_20170928_049.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "traitement-metaux": {
+    "title": {
+      "_id": "traitement-metaux",
+      "fr": "Traitement metaux",
+      "en": "Metal treatments"
+    },
+    "pictures": [
+      {
+        "name": "IMG-4374.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4375.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4376.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4377.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG-4407.JPG",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_454911.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      },
+      {
+        "name": "IMG_455111.jpg",
+        "fr": {
+          "city": "",
+          "description": ""
+        },
+        "en": {
+          "city": "",
+          "description": ""
+        }
+      }
+    ]
+  }
+}
