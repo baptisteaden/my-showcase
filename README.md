@@ -6,6 +6,7 @@ React app to manage pictures of the website [Acier Design Création](https://aci
 
 It could be optimized with more time (SSR, no full load on first render, virtualization, ...).
 
-[See it in action!](http://pixapp.eu-west-3.elasticbeanstalk.com/)
+See it in action [here](http://pixapp.eu-west-3.elasticbeanstalk.com/), or [here](http://83.199.57.22).
+
 
 *It uses the mock server `server.js` so don't fear the alert: no real website will be harmed.* 😄
